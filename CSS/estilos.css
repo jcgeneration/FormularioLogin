@@ -1,0 +1,36 @@
+
+body {
+    background-color: #eee;
+}
+
+fieldset {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 6px;
+}
+
+legend {
+    text-align: center;
+    font-size: 25px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid gainsboro;
+    border-radius: 6px;
+}
+
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+}
