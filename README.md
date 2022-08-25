@@ -4,7 +4,7 @@ Formulario de Login en equipo
 ## Uso
 Formulario que puedes añadir a tu página de "Login" 
 
-## Installation
+## Instalación
 
 Descargar desde (https://github.com/jcgeneration/FormularioLogin)
 
